@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This a brand new feature.
 
 adding more features and functions.
 Keys added.
+=======
+Created new feature.
+>>>>>>> e78fe83 (pproblems)
