@@ -1,1 +1,5 @@
 This a latest feature.
+<<<<<<< HEAD
+=======
+working fine.
+>>>>>>> dev
