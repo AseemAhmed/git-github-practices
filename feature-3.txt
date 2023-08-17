@@ -1,8 +1,16 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ffdee52 (working on the problem)
 This a brand new feature.
 
 adding more features and functions.
 Keys added.
+<<<<<<< HEAD
 =======
 Created new feature.
 >>>>>>> e78fe83 (pproblems)
+=======
+
+done working.
+>>>>>>> ffdee52 (working on the problem)
